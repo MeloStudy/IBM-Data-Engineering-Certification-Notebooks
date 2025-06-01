@@ -7,8 +7,8 @@ My Study Notebooks throughout the IBM Data Engineering Professional Certificatio
 ## Courses
 - C1: Introduction to Data Engineering [✅Done]
 - C2: Python for Data Science, AI & Development [✅Already Taken] [IBM Data Science](https://github.com/MeloStudy/IBM-Data-Science-Certification-Notebooks/tree/main)
-- C3: Python project for Data Engineering [⚙️In Progress]
-- C4: Introduction to Relational Database
+- C3: Python project for Data Engineering [✅Done]
+- C4: Introduction to Relational Database [⚙️In Progress]
 - C5: Databases and SQL for Data Science with Python [✅Already Taken] [IBM Data Science](https://github.com/MeloStudy/IBM-Data-Science-Certification-Notebooks/tree/main/Course%206%20-%20Dbs)
 - C6: Hands-on Introduction to Linux Commands and Shell Scripting
 - C7: Relational Database Administration (DBA)

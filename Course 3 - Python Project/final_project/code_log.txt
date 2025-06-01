@@ -1,0 +1,16 @@
+2025-Jun-01-00:56:28 : Preliminaries complete. Initiating ETL process
+2025-Jun-01-00:56:28 : Data extraction complete. Initiating Transformation process
+2025-Jun-01-00:56:28 : Data transformation complete. Initiating loading process
+2025-Jun-01-00:56:28 : Data saved to CSV file
+2025-Jun-01-00:56:28 : SQL Connection initiated.
+2025-Jun-01-00:56:28 : Data loaded to Database as table. Executing the query
+2025-Jun-01-00:56:28 : Process Complete
+2025-Jun-01-00:56:28 : Server Connection closed
+2025-Jun-01-00:59:31 : Preliminaries complete. Initiating ETL process
+2025-Jun-01-00:59:32 : Data extraction complete. Initiating Transformation process
+2025-Jun-01-00:59:32 : Data transformation complete. Initiating loading process
+2025-Jun-01-00:59:32 : Data saved to CSV file
+2025-Jun-01-00:59:32 : SQL Connection initiated.
+2025-Jun-01-00:59:32 : Data loaded to Database as table. Executing the query
+2025-Jun-01-00:59:32 : Process Complete
+2025-Jun-01-00:59:32 : Server Connection closed
