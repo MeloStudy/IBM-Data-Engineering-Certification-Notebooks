@@ -1,0 +1,5 @@
+logs/
+config/
+dags/__pycache__
+evidence/
+data/raw/._*

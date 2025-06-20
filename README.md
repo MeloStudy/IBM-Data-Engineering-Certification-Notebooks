@@ -12,7 +12,7 @@ My Study Notebooks throughout the IBM Data Engineering Professional Certificatio
 - C5: Databases and SQL for Data Science with Python [✅Already Taken] [IBM Data Science](https://github.com/MeloStudy/IBM-Data-Science-Certification-Notebooks/tree/main/Course%206%20-%20Dbs)
 - C6: Hands-on Introduction to Linux Commands and Shell Scripting [⚙️In Progress]
 - C7: Relational Database Administration (DBA)
-- C8: ETL and Data Pipelines with Shell, Airflow and Kafka [⚙️ In Progress]
+- C8: ETL and Data Pipelines with Shell, Airflow and Kafka [✅Done]
 - C9: Data Warehouse Fundamentals
 - C10: BI Dashboards with IBM Cognos Analytics and Google Looker
 - C11: Introduction to NoSQL Databases
